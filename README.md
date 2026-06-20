@@ -8,12 +8,6 @@ Organize, track, and manage daily activities through a simple and intuitive task
 
 <br>
 
-<a href="https://melissagarridos.github.io/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/melissavgs/">LinkedIn</a> •
-<a href="https://github.com/melissagarridos">GitHub</a>
-
-<br><br>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-Web-blue?style=for-the-badge)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
@@ -92,13 +86,7 @@ The interface is designed to minimize friction and encourage consistent task man
 
 ## Application Preview
 
-### Main Dashboard
-
-Replace with application screenshot:
-
-```html
-<img src="assets/dashboard.png" width="100%">
-```
+The application provides a clean and intuitive interface for managing daily tasks, tracking progress, and maintaining productivity.
 
 ---
 
